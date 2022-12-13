@@ -14,3 +14,14 @@ Install novnc:
 ```bash
 sudo snap install novnc
 ```
+
+Start VNC Server:
+```bash
+vncserver
+```
+
+Start VNC Server:
+```bash
+novnc --vnc localhost:5901
+```
+
