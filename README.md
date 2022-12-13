@@ -25,3 +25,7 @@ Start VNC Server:
 novnc --vnc localhost:5901
 ```
 
+Update password for ubuntu user:
+```bash
+sudo passwd ubuntu
+```
